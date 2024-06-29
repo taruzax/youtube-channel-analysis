@@ -12,7 +12,9 @@ Using Python and data analysis tools, it looks at metrics like views, likes, dis
 - Process and clean the data
 - Look for patterns and trends in the data.
 - Create charts and graphs to show the findings.
-- Calculate key engagement metrics.
+- Calculate key engagement metrics, and find popular videos
+- Find the most popular comments
+- Analyze the most engaged users
 - And understand who’s the most popular host, Sam vs Shaan
 
 ## Installation Instructions
