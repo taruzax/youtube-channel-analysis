@@ -1,5 +1,6 @@
 # YouTube Channel Analysis: My First Million
 
+
 ## Project Overview
 
 In this project we analyze the [My First Million](https://www.youtube.com/@MyFirstMillionPod) YouTube channel to find useful insights and trends. 
@@ -25,6 +26,9 @@ Using Python and data analysis tools, it looks at metrics like views, likes, dis
 - Open `main.ipynb` and run the cells to perform the analysis.
 
 ## How to reuse this code
+
+> If you’re interested in using this script on your projects, I have no problems with this. Just don't forget to give a credit by tagging me, I'll be happy to support you.
+>
 
 - Analyze your own channel, replace the channel id with your channel id
 - Bulk channels analysis, add multiple channel ids into the channel list to perform bulk analysis
